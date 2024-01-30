@@ -20,6 +20,8 @@ sklearn.svm, sklearn.model_selection
 ## Instructions
 Ensure dataset in D:/dataset/training_set/.
 
+Dataset link:- https://www.kaggle.com/datasets/chetankv/dogs-cats-images?resource=download
+
 Run the code to train and evaluate the SVM model.
 
 Modify the path variable for image prediction.
